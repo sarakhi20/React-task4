@@ -3,12 +3,12 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle";
 
-import Menu from "./Components/Menu";
-import AllCom from "./Components/AllCom";
-import FullStackDev from "./Components/FullStackDev";
-import DataScience from "./Components/DataScience";
-import CyberSecurity from "./Components/CyberSecurity";
-import Career from "./Components/Career";
+import Menu from "./components/Menu";
+import AllCom from "./components/AllCom";
+import FullStackDev from "./components/FullStackDev";
+import DataScience from "./components/DataScience";
+import CyberSecurity from "./components/CyberSecurity";
+import Career from "./components/Career";
 import Footer from "./components/Footer";
 import { CardData } from "./CardData";
 

@@ -12,15 +12,7 @@ Card.propTypes = {
   }).isRequired,
 };
 
-// Card.propTypes = {
-//   data : {
-//       id : PropTypes.number.isRequired,
-//       title : PropTypes.string.isRequired,
-//       description : PropTypes.string.isRequired,
-//       image : PropTypes.string.isRequired,
-//       date : PropTypes.number.isRequired
-//   }
-// };
+
 
 function Card({ data }) {
   return (
